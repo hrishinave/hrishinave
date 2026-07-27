@@ -4,7 +4,7 @@ CS student at UT Dallas (B.S. expected May 2028, math minor). I spend most of my
 
 Open to software engineering and ML internships. Resume and links are at the bottom.
 
-## What I've been building
+## What I've been built
 
 **[AutoPM](https://github.com/hrishinave)** — An AI copilot for product managers that runs a seven-step workflow (research, user stories, RICE prioritization, wireframes, Jira tickets) across eight LangGraph agents. The interesting part was making agents talk to each other reliably: every handoff is a Zod-validated structured output, which turned a pile of brittle prompt chaining into something type-safe. Placed 2nd out of 350+ projects at HackUTD.
 `Next.js` `TypeScript` `LangGraph` `Gemini` `Auth0`
