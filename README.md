@@ -34,7 +34,7 @@ I'm a Computer Science student at UT Dallas (minor in Math) who spends most of h
 > **360 concurrent players across 60 tables at 1,871 actions/sec** with 0.3 ms p95 action-to-broadcast latency. Deterministic seeded-RNG engine with chip-conservation invariants, proven across 3,000 fuzzed hands and 106 tests. Per-viewer state projection plus a recursive payload scanner in CI asserts zero hole-card leakage across every player, spectator, and history view.
 > `React` `TypeScript` `Node.js` `WebSockets` `Supabase` `Vercel`
 
-**📋 AutoPM** — AI product-management copilot · *2nd Place, HackUTD 2025*
+**📋 [AutoPM](https://github.com/hrishinave/HackUTD2)** — AI product-management copilot · *2nd Place, HackUTD 2025*
 > Orchestrates 8 LangGraph agents across a 7-step workflow — research, user stories, RICE prioritization, wireframing, Jira tickets — with Zod-validated structured outputs across 3 third-party APIs. Cuts an estimated 10+ hours of manual PM work per cycle.
 > `Next.js` `TypeScript` `LangGraph` `Gemini`
 
