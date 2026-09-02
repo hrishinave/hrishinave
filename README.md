@@ -16,7 +16,7 @@
 
 I'm a Computer Science student at UT Dallas (minor in Math) who spends most of his time on the messy parts of AI systems — the state machines, the crash-safety, the latency budgets, the thing that breaks when a real camera feed hits a model trained on grayscale data.
 
-- 🤖 **Software Engineer @ BrainCharge** — shipping an edge-deployed companion robot on NVIDIA Jetson: real-time voice pipeline (VAD → Whisper → LLM → Piper TTS), echo-aware barge-in, face recognition, and live emotion sensing.
+
 - 🔬 **Undergraduate Researcher @ UTD URAP** (advised by Prof. Wei Yang) — studying the root causes of non-determinism in LLM inference. Curated 200+ documented cases and built harnesses that replay divergent runs.
 - 🌱 **Open source** — contributor to [OpenWorker](https://github.com/andrewyng/openworker) (Andrew Ng), where I added NVIDIA NIM catalog models behind an OpenAI-compatible interface and closed an auth gap that let invalid API keys pass validation.
 - 🏆 2nd Place out of 350+ at HackUTD 2025 (PNC Track) · Dean's List
