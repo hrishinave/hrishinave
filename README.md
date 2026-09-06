@@ -18,7 +18,6 @@ I'm a Computer Science student at UT Dallas (minor in Math) who spends most of h
 
 
 - 🔬 **Undergraduate Researcher @ UTD URAP** (advised by Prof. Wei Yang) — studying the root causes of non-determinism in LLM inference. Curated 200+ documented cases and built harnesses that replay divergent runs.
-- 🌱 **Open source** — contributor to [OpenWorker](https://github.com/andrewyng/openworker) (Andrew Ng), where I added NVIDIA NIM catalog models behind an OpenAI-compatible interface and closed an auth gap that let invalid API keys pass validation.
 - 🏆 2nd Place out of 350+ at HackUTD 2025 (PNC Track) · Dean's List
 - 💬 Ask me about edge ML, agent orchestration, RAG that actually cites its sources, or why your WebSocket server is leaking hole cards.
 
